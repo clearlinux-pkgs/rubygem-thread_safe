@@ -4,7 +4,7 @@
 #
 Name     : rubygem-thread_safe
 Version  : 0.3.5
-Release  : 12
+Release  : 13
 URL      : https://rubygems.org/downloads/thread_safe-0.3.5.gem
 Source0  : https://rubygems.org/downloads/thread_safe-0.3.5.gem
 Summary  : No detailed summary available
